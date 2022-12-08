@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkspacecraft=self.webpackChunkspacecraft||[]).push([[997],{227:function(t,e,n){n.r(e),n.d(e,{default:function(){return r}});var i=n(6590),c=n(2312),s=n.p+"static/media/SPITZER.428899206e26582c33de.glb",a=n(184);function r(t){var e=(0,i.D)(c.E,s);return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)("pointLight",{position:[10,-10,5],intensity:1}),(0,a.jsx)("primitive",{object:e.scene,scale:[1,1,1],rotation:[0,0,1.1]})]})}}}]);
+//# sourceMappingURL=997.217d17c9.chunk.js.map

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sputnik
+* source:	https://sketchfab.com/3d-models/sputnik-a7514774377c406da64a0106a5df644f
+* author:	Adrienne Neef (https://sketchfab.com/Adrienne_Neef)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sputnik" (https://sketchfab.com/3d-models/sputnik-a7514774377c406da64a0106a5df644f) by Adrienne Neef (https://sketchfab.com/Adrienne_Neef) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkspacecraft=self.webpackChunkspacecraft||[]).push([[162],{2061:function(t,e,i){i.r(e),i.d(e,{default:function(){return r}});var n=i(6590),a=i(2312),c=i.p+"static/media/Cassini.ca96813c51ca0f86ac7e.glb",s=i(184);function r(){var t=(0,n.D)(a.E,c);return(0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)("pointLight",{position:[10,20,0],intensity:5}),(0,s.jsx)("primitive",{object:t.scene,"rotation-x":Math.PI/3})]})}}}]);
+//# sourceMappingURL=162.ba7ce7a6.chunk.js.map
