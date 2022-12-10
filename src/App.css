@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Electrolize&display=swap");
+
+* {
+  font-family: "Electrolize", sans-serif;
+  user-select: none;
+}
+
+body {
+  background-color: #000;
+}
+
+.bg-grid {
+  background: url("./Assets/grid.png"),
+    linear-gradient(rgba(0, 0, 0, 1), rgba(20, 73, 108, 0.6) 90%);
+  background-size: 60px, cover;
+  background-position: center, center;
+}
+
+.card-border {
+  position: relative;
+  border-width: 5px;
+  border-style: solid;
+  border-image: url("./Assets/border-blue.png") 10;
+}
+
+.start {
+  background: url("./Assets/marker.png");
+  background-size: contain;
+  background-position: center;
+  width: 200px;
+  height: 200px;
+  letter-spacing: 14px;
+  transition: 1s;
+}
+
+.start p {
+  padding-left: 10px;
+}
+
+.start:hover {
+  letter-spacing: 18px;
+  filter: drop-shadow(0 0 0.75rem cyan);
+}
