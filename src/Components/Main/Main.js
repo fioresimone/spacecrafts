@@ -16,10 +16,16 @@ export default function Main() {
     >
       <Html as="div" center>
         <div
-          className="start text-white flex justify-center items-center cursor-pointer"
+          className="start mx-auto text-white flex justify-center items-center cursor-pointer"
           onClick={() => navigate("m/sputnik")}
         >
           <p>Start</p>
+        </div>
+        <div
+          className="text-gray-500 text-center mt-10"
+          style={{ width: "300px" }}
+        >
+          Drag to rotate - Pinch/Scroll to zoom
         </div>
       </Html>
     </Canvas>
